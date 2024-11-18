@@ -48,7 +48,33 @@ EDA involved the exploring of the Data to answer some questions about the Data s
 ### Data Visualization
 ---
 
+![HR Data Visuals 1](https://github.com/user-attachments/assets/2bf0b95c-0a8e-4e02-b0ef-6386f6fff95a)
 
+
+![HR Data Visuals 2](https://github.com/user-attachments/assets/3d344fce-e526-4b53-abcb-dcfd3adacb44)
+
+
+### Attrition Trends
+---
+
+1. Total numbers of Employee (1470)
+2. Total numbers of Attrition count (237)
+3. Total rate of Attrition (16%)
+
+### Recommendations 
+---
+
+From the analysis, most Attrition is from R&D department. The R&D department should be looked into to ascertain why employee are leaving.
+
+
+### Conclusion
+---
+
+From the HR-Data, we have different visuals from Power BI showing the Attrition trends in the organisation;
+
+Attrition count by department, Attrition count by educational fields, Attrition count by gender, Attrition count based on age groups and gender e.t.c
+
+In Conclusion, The Power BI dashboard shows the insights on the attrition trends.
 
 
 
